@@ -1,8 +1,6 @@
 name: bump_hls_js
 
 on:
-  schedule:
-  - cron: '4 5 * * *'
   workflow_dispatch:
 
 jobs:
